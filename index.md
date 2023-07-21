@@ -4,7 +4,7 @@ layout: home
 group: home
 ---
 
-## The Gentile Lab
+# The Gentile Lab
 # Department of Chemistry and Biomlecular Sciences, University of Ottawa
 {: .display-4}
 <br>
