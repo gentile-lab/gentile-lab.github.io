@@ -1,7 +1,7 @@
 # gentile-lab.github.io
 ====================
 
-This website has been forked from fraser-lab/fraser-lab.github.io
+This website has been forked from [fraser-lab/fraser-lab.github.io](https://github.com/fraser-lab/fraser-lab.github.io)
 
 Technologies this website uses:  
 
