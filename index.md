@@ -4,8 +4,8 @@ layout: home
 group: home
 ---
 
-## The Gentile Lab
-# Department of Chemistry and Biomlecular Sciences, University of Ottawa
+# The Gentile Lab
+## Department of Chemistry and Biomlecular Sciences, University of Ottawa
 {: .display-4}
 <br>
 Located in the STEM Complex of the University of Ottawa, in the hearth of Canada’s National Capital Region, our laboratory is part of the [Department of Chemistry and Biomolecular Sciences](https://www.uottawa.ca/faculty-science/chemistry-biomolecular-sciences), the [Ottawa Institute of Systems Biology](https://www.uottawa.ca/research-innovation/ottawa-institute-systems-biology) and the [AI4Science@uOttawa group](https://ai4science.uottawa.ca).
