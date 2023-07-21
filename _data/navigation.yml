@@ -34,9 +34,9 @@
   link: "/join"
   group: join
 
-- name: contact
-  link: "/contact"
-  group: contact
+#- name: contact
+#  link: "/contact"
+#  group: contact
 
 #- name: private
 #  link: "https://sites.google.com/fraserlab.com/fraserlab-private/"
