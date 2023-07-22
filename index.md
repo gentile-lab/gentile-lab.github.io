@@ -12,5 +12,3 @@ Located in the STEM Complex of the University of Ottawa, in the hearth of Canada
 
 Our research focuses on computer-aided drug discovery at the interface of chemistry, biology and computer science. We are interested in developing and applying innovative computational tools to accelerate therapeutics discovery in cancer and other diseases. 
 {: .welcomefont}
-
-# We gratefully acknowledge the support from:
