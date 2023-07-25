@@ -7,10 +7,7 @@ group: research
 <div class="row">
 
 # What we do
-The ultimate goal of our research is to understand how molecules interact with each other in biological systems and use this information to accelerate the discovery of novel therapeutics. We develop tools to improve ligand discovery, leveraging computational chemistry and machine learning to enable the interrogation of large chemical libraries against challenging targets. We also apply these tools to discover new starting points for drug design efforts against challenging and unconventional binding sites. In our research, we take a collaborative and multidisciplinary approach by working side-by-side with groups with expertise in medicinal chemistry, biology, and pharmacology. Feel free to [contact us](https://gentile-lab.github.io/) for more information or to discuss collaboration opportunities.
-
-#### We work on many different systems and proteins as we find ourselves drawn, again and again, to the tension of high resolution data in structural biology: as resolution gets better, modeling becomes easier... until the resolution gets too good... and then the ensemble begins to reveal itself and the fun challenges begin.
-<br>
+The ultimate goal of our research is to understand how molecules interact in biological systems and use this information to accelerate the discovery of novel therapeutics. We develop tools to improve ligand discovery, leveraging computational chemistry and machine learning to interrogate large chemical libraries against clinically relevant targets. We also apply these tools to discover new starting points for drug design against challenging and unconventional binding sites. In our research, we take a collaborative and multidisciplinary approach by working side-by-side with groups with expertise in medicinal chemistry, biology, and pharmacology. Feel free to [contact us](https://gentile-lab.github.io/) for more information or to discuss collaboration opportunities.
 <br>
 
 </div>
