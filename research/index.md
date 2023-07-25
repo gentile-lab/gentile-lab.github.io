@@ -1,13 +1,13 @@
 ---
-title: Research in the Fraser Lab
+title: Our Research
 layout: default
 group: research
 ---
 
 <div class="row">
 
-# Our research
-The long-term goals of our research are to understand how protein conformational ensembles are reshaped by chemical, genetic, and physical perturbations. We seek to quantify how these perturbations impact protein function and organismal fitness. We are best known for creating multitemperature X-ray data collection approaches, which are especially powerful when paired with multiconformer computational modeling to reveal otherwise inaccessible features of conformational ensembles. Our group integrates high resolution structural biology (X-ray, EM, NMR), functional studies (deep mutational scanning, enzymology), and computation to study biological mechanisms and to improve protein engineering and small molecule discovery. Group members move fluidly between computation and experiment, often inventing new methods to answer their questions.
+# What we do
+The ultimate goal of our research is to understand how molecules interact with each other in biological systems and use this information to accelerate the discovery of novel therapeutics. We develop tools to improve ligand discovery, leveraging computational chemistry and machine learning to enable the interrogation of large chemical libraries against challenging targets. We also apply these tools to discover new starting points for drug design efforts against challenging and unconventional binding sites. In our research, we take a collaborative and multidisciplinary approach by working side-by-side with groups with expertise in medicinal chemistry, biology, and pharmacology. Feel free to [contact us](https://gentile-lab.github.io/) for more information or to discuss collaboration opportunities.
 
 #### We work on many different systems and proteins as we find ourselves drawn, again and again, to the tension of high resolution data in structural biology: as resolution gets better, modeling becomes easier... until the resolution gets too good... and then the ensemble begins to reveal itself and the fun challenges begin.
 <br>
