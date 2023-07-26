@@ -30,17 +30,15 @@ While early-stage drug discovery screening campaigns have traditionally focused 
 </div>
 <div class="row">
 
-### Using multi-temperature X-ray data collection methods in mechanistic studies and ligand discovery campaigns
+### Development of new structure-based virtual screening methods
 
 <div class="col-md-7 order-md-2">
 
-We recognized that the standard practice of cryocooling crystals could distort protein conformations.
-In both larger surveys and isolated mechanistic studies, we have demonstrated the value of room temperature data collection for revealing the structural basis of protein conformational dynamics, leading to new insights into enzymes, and increasing connections to dynamics studies from NMR and simulations.
-Additionally, we have identified how temperature can bias small molecule discovery, leading some fragment sites inaccessible at cryogenic temperatures and repositioning critical water molecules.
+As the size of chemical libraries continues to expand, a corresponding increase in artifacts arising from virtual screening is observed. Our research aims at marrying data-driven approaches (such as deep learning) with physics-based tools in order to improve the success rate of virtual screening, reduce human intervention, and streamline early-stage drug discovery. We are particularly interested in developing strategies suitable for "undruggable" targets such as protein-protein interaction sites.
 </div>
 
 <div class="col-md-5 order-md-1 align-self-center">
-<img class="img-fluid" src="/static/img/pub/2018_keedy_hill.jpg" alt="ptp1b">
+<img class="img-fluid" src="/static/img/res/db.png" alt="qFit">
 </div>
 </div>
 <div class="row">
