@@ -34,11 +34,11 @@ While early-stage drug discovery screening campaigns have traditionally focused 
 
 <div class="col-md-7 order-md-2">
 
-As the size of chemical libraries continues to expand, a corresponding increase in artifacts arising from virtual screening is observed. Our research aims at marrying data-driven approaches (such as deep learning) with physics-based tools in order to improve the success rate of virtual screening, reduce human intervention, and streamline early-stage drug discovery. We are particularly interested in developing strategies suitable for "undruggable" targets such as protein-protein interaction sites.
+As the size of chemical libraries continues to expand, a corresponding increase in artifacts arising from virtual screening is observed. Our research aims at marrying data-driven approaches with physics-based tools in order to improve the success rate of virtual screening, reduce human intervention, and streamline early-stage drug discovery. We are particularly interested in developing strategies suitable for "undruggable" targets such as protein-protein interaction sites.
 </div>
 
-<div class="col-sm-5 order-md-1 align-self-center">
-<img class="img-fluid" src="/static/img/res/db.png" alt="qFit">
+<div class="col-md-5 order-md-1 align-self-center">
+<img class="img-fluid" src="/static/img/res/db.png" alt="qFit", width=30%">
 </div>
 </div>
 <div class="row">
