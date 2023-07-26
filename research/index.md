@@ -30,7 +30,7 @@ While early-stage drug discovery screening campaigns have traditionally focused 
 </div>
 <div class="row">
 
-### Improving structure-based virtual screening
+### Using multi-temperature X-ray data collection methods in mechanistic studies and ligand discovery campaigns
 
 <div class="col-md-7 order-md-2">
 
@@ -40,7 +40,7 @@ Additionally, we have identified how temperature can bias small molecule discove
 </div>
 
 <div class="col-md-5 order-md-1 align-self-center">
-<img class="img-fluid" src="/static/img/res/dd.png" alt="dbx">
+<img class="img-fluid" src="/static/img/res/db.png" alt="dbx">
 </div>
 </div>
 <div class="row">
