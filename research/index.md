@@ -30,7 +30,7 @@ While early-stage drug discovery screening campaigns have traditionally focused 
 </div>
 <div class="row">
 
-### Development of new structure-based virtual screening methods
+### Improving structure-based virtual screening methods
 
 <div class="col-md-8 order-md-2">
 
