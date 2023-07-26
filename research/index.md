@@ -37,7 +37,7 @@ While early-stage drug discovery screening campaigns have traditionally focused 
 As the size of chemical libraries continues to expand, a corresponding increase in artifacts arising from virtual screening is observed. It becomes also increasingly challenging to identify ligands for novel targets lacking confirmed binders, or that are prone to large conformational rearrangements upon ligand binding. Our research aims at marrying data-driven approaches with physics-based tools in order to improve the success rate of virtual screening, reduce human intervention, and streamline early-stage drug discovery. We are particularly interested in developing strategies suitable for "undruggable" targets such as protein-protein interaction sites.
 
 </div>
-<div class="col-md-5 order-md-1 align-self-center">
+<div class="col-md-3 order-md-1 align-self-center">
 <img class="img-fluid" src="/static/img/res/db.png" alt="qFit">
 
 </div>
