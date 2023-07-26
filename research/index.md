@@ -25,6 +25,8 @@ While early-stage drug discovery screening campaigns have traditionally focused 
 </div>
 <div class="col-md-5 order-md-2 align-self-center">
 <img class="img-fluid" src="/static/img/res/dd.png" alt="qFit">
+
+</div>
 </div>
 <div class="row">
 
