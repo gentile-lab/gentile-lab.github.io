@@ -38,7 +38,7 @@ As the size of chemical libraries continues to expand, a corresponding increase 
 
 </div>
 <div class="col-md-5 order-md-1 align-self-center">
-<img class="img-fluid" src="/static/img/res/db.png" alt="dockbox">
+<img class="img-fluid" src="/static/img/res/dd.png" alt="dockbox">
 
 </div>
 </div>
