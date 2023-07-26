@@ -18,12 +18,12 @@ Our codes are available on [GitHub](https://github.com/gentile-lab).
 
 ### Accelerating the exploration of the drug-like chemical space
 
-<div class="col-md-9 order-md-1">
+<div class="col-md-8 order-md-1">
 
 While early-stage drug discovery screening campaigns have traditionally focused on chemical libraries from thousands to few millions of molecules, it has been estimated that there are more than 10^60 possible drug-like molecules. To bridge the gap, recent efforts to develop virtual make-on-demand libraries led to the availability of enormous collections (>1 billion) of tangible small molecules, presenting unprecedented opportunities but also challenges for computer-aided drug discovery. In this context, we aim at developing new methods to alleviate the challenges of virtual screening at a large scale, by leveraging machine learning to build fast and reliable surrogates of physics-based methods. These new tools can improve accessibility to large chemical libraries and thus accelerate the exploration of their therapeutic potential.
 
 </div>
-<div class="col-md-3 order-md-2 align-self-center">
+<div class="col-md-4 order-md-2 align-self-center">
 <img class="img-fluid" src="/static/img/res/dd.png" alt="deepdocking">
 
 </div>
