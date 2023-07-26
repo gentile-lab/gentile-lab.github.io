@@ -24,10 +24,7 @@ While early-stage drug discovery screening campaigns have traditionally focused 
 
 </div>
 <div class="col-md-5 order-md-2 align-self-center">
-<img class="img-fluid" src="/static/img/pub/2017_biel.jpg" alt="qFit">
-<!-- <a href="http://www.ucsf.edu"><img class="inline-block navb-icon" src="/static/img/ucsf_logo_white.svg" alt="University of California, San Francisco (UCSF) logo"></a> -->
-
-</div>
+<img class="img-fluid" src="/static/img/res/dd.png" alt="qFit">
 </div>
 <div class="row">
 
