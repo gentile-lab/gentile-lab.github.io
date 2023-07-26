@@ -43,4 +43,17 @@ As the size of chemical libraries continues to expand, a corresponding increase 
 </div>
 <div class="row">
 
+### Computational strategies to overcome cancer drug resistance
+
+<div class="col-md-7 order-md-1">
+
+We use computational methods to study proteins that are responsible for establishing drug resistance in cancer cells. We are particularly interested in investigting the structure-function relationship of DNA repair proteins, such as the ERCC1-XPF endonuclease. It has been established that chemical modulation of their activity in cancer cells improves the response to DNA-damaging chemotherapies such as platinum-based agents. Thus, we employ virtual screening to discover new small molecules inhibitors of these proteins, with the goal of opening new venues for developing more effective combination cancer therapies.
+</div>
+
+<div class="col-md-5 order-md-2 align-self-center">
+<img class="img-fluid" src="/static/img/res/b5.png" alt="cmpd">
+</div>
+</div>
+<div class="row">
+
 </div>
