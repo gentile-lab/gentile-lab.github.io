@@ -32,12 +32,12 @@ While early-stage drug discovery screening campaigns have traditionally focused 
 
 ### Improving structure-based virtual screening by combining data-driven and physics-based approaches
 
-<div class="col-md-8 order-md-2">
+<div class="col-md-9 order-md-2">
 
 As the size of chemical libraries continues to expand, a corresponding increase in artifacts arising from virtual screening is observed. It becomes also increasingly challenging to identify ligands for novel targets lacking confirmed binders. It is also difficult to target proteins that undergo large conformational rearrangements upon ligand binding. Our research aims at marrying data-driven approaches with physics-based tools in order to improve the success rate of virtual screening in these scenarios, as well as to reduce human intervention, with the goal of streamlining early-stage drug discovery. We are particularly interested in developing strategies suitable for "undruggable" targets such as protein-protein interaction sites, which are gaining attention as therapeutic targets in many diseases.
 </div>
 
-<div class="col-md-4 order-md-1 align-self-center">
+<div class="col-md-3 order-md-1 align-self-center">
 <img class="img-fluid" src="/static/img/res/db.png" alt="dbx">
 </div>
 </div>
