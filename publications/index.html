@@ -18,12 +18,20 @@ group: publications
 			<i>{{ publication.journal }},</i>
 			{{publication.pub_date | split: "-" | first }}
 		{% else %}
+                       
 			{% if publication.biorxiv %}
 			<i>Biorxiv,</i>
 				{{publication.biorxiv | split: "." | first }}
 			{% elsif publication.biorxiv_version %}
 			<i>Biorxiv,</i>
 				{{publication.biorxiv_version | split: "." | first }}
+                                                {% if publication.biorxiv %}
+                        {% if publication.medrxiv %}
+                        <i>Medrxiv,</i>
+                                {{publication.medrxiv | split: "." | first }}
+                        {% elsif publication.medrxiv_version %}
+                        <i>Medrxiv,</i>
+                                {{publication.medrxiv_version | split: "." | first }}
 			{% else %}
 			<i>Preprint,</i>
 				{{publication.pub_date | split: "-" | first }}
@@ -68,6 +76,15 @@ group: publications
 		{% if publication.chemrxiv %}
 		<li>ChemRxiv Preprint: <a href="https://doi.org/10.26434/chemrxiv.{{publication.chemrxiv}}" title = "ChemRxiv Preprint: {{publication.chemrxiv}} (opens in new tab)" target="_blank"> {{publication.chemrxiv}}</a></li>
 		{% endif %}
+                
+                <!--Medrxiv - optional -->
+                {% if publication.medrxiv %}
+                <li>MedRxiv Preprint: <a href="https://doi.org/10.1101/medrxiv.{{publication.chemrxiv}}" title = "ChemRxiv Preprint: {{publication.chemrxiv}} (opens in new tab)" target="_blank"> {{publication.medrxiv}}</a></li>
+                {% endif %}i
+                
+                <!--Medrxiv specific version-->
+                {% if publication.medrxiv_version %}
+                <li>Medrxiv Preprint v{{publication.medrxiv_version | split: "." | last | split: "v" | last }}: <a href="http://www.medrxiv.org/content/10.1101/{{publication.medrxiv_version}}" title =  "MedRxiv Preprint: {{publication.medrxiv_version}} (opens in new tab)" target="_blank">{{publication.medrxiv_version | split: "." | last | split: "v" | first }}</a></li>
 
 		<!-- PDF -->
 		{% if publication.journal %}
@@ -174,7 +191,7 @@ group: publications
 <div>
 <h2>Before uOttawa</h2>
 
-25. Lee, J.; Kenward, C.; Worrall, L.; Vuckovic, M.; <strong><strong>Gentile, F.</strong></strong>; Ton, A.T.; Ng, M.; Cherkasov, A.; Paetzel, M.; Strynadka; N. X-ray crystallographic characterization of the SARS-CoV-2 main protease polyprotein cleavage sites essential for viral processing and maturation. Nat. Commun. 2022, 13, 5196.<br>
+25. Lee, J.; Kenward, C.; Worrall, L.; Vuckovic, M.; <strong>Gentile, F.</strong>; Ton, A.T.; Ng, M.; Cherkasov, A.; Paetzel, M.; Strynadka; N. X-ray crystallographic characterization of the SARS-CoV-2 main protease polyprotein cleavage sites essential for viral processing and maturation. Nat. Commun. 2022, 13, 5196.<br>
 24. Weilbeer, C.; Jay, D.; Donnelly, J. C.; <strong>Gentile, F.</strong>; Karimi-Busheri, F.; Yang, X.; Mani, R. S.; Yu, Y.; Elmenoufy, A. H.; Barakat, K. H.; Tuszynski, J. A.; Weinfeld, M.; West, F. G. Modulation of ERCC1-XPF Heterodimerization Inhibition via Structural Modification of Small Molecule Inhibitor Side-Chains. Front. Oncol. 2022, 12, 493.<br>
 23. Pandey, M.; Fernandez, M.; <strong>Gentile, F.</strong>; Isayev, O.; Tropsha, A.; Stern, A. C.; Cherkasov, A. The transformational role of GPU computing and deep learning in drug discovery. Nat. Mach. Intell. 2022, 4, 211–221.<br>
 22.<strong>Gentile, F.</strong>; Yaacoub, J. C.; Gleave, J.; Fernandez, M.; Ton, A.-T. T.; Ban, F.; Stern, A.; Cherkasov, A. Artificial intelligence–enabled virtual screening of ultra-large chemical libraries with deep docking. Nat. Protoc. 2022, 17, 672–697.<br>
