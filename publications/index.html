@@ -25,14 +25,12 @@ group: publications
 			{% elsif publication.biorxiv_version %}
 			<i>Biorxiv,</i>
 				{{publication.biorxiv_version | split: "." | first }}
-                                                {% if publication.biorxiv %}
                         {% elsif publication.medrxiv %}
                         <i>Medrxiv,</i>
                                 {{publication.medrxiv | split: "." | first }}
                         {% elsif publication.medrxiv_version %}
                         <i>Medrxiv,</i>
                                 {{publication.medrxiv_version | split: "." | first }}
-                                                {% if publication.medrxiv %} 
 			{% else %}
 			<i>Preprint,</i>
 				{{publication.pub_date | split: "-" | first }}
