@@ -32,6 +32,7 @@ group: publications
                         {% elsif publication.medrxiv_version %}
                         <i>Medrxiv,</i>
                                 {{publication.medrxiv_version | split: "." | first }}
+                                                {% if publication.medrxiv %} 
 			{% else %}
 			<i>Preprint,</i>
 				{{publication.pub_date | split: "-" | first }}
@@ -80,11 +81,12 @@ group: publications
                 <!--Medrxiv - optional -->
                 {% if publication.medrxiv %}
                 <li>MedRxiv Preprint: <a href="https://doi.org/10.1101/medrxiv.{{publication.chemrxiv}}" title = "MedRxiv Preprint: {{publication.medrxiv}} (opens in new tab)" target="_blank"> {{publication.medrxiv}}</a></li>
-                {% endif %}i
+                {% endif %}
                 
                 <!--Medrxiv specific version-->
                 {% if publication.medrxiv_version %}
                 <li>Medrxiv Preprint v{{publication.medrxiv_version | split: "." | last | split: "v" | last }}: <a href="http://www.medrxiv.org/content/10.1101/{{publication.medrxiv_version}}" title =  "MedRxiv Preprint: {{publication.medrxiv_version}} (opens in new tab)" target="_blank">{{publication.medrxiv_version | split: "." | last | split: "v" | first }}</a></li>
+                {% endif %}                
 
 		<!-- PDF -->
 		{% if publication.journal %}
