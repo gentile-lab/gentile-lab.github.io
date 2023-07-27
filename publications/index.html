@@ -26,7 +26,7 @@ group: publications
 			<i>Biorxiv,</i>
 				{{publication.biorxiv_version | split: "." | first }}
                                                 {% if publication.biorxiv %}
-                        {% if publication.medrxiv %}
+                        {% elsif publication.medrxiv %}
                         <i>Medrxiv,</i>
                                 {{publication.medrxiv | split: "." | first }}
                         {% elsif publication.medrxiv_version %}
@@ -79,7 +79,7 @@ group: publications
                 
                 <!--Medrxiv - optional -->
                 {% if publication.medrxiv %}
-                <li>MedRxiv Preprint: <a href="https://doi.org/10.1101/medrxiv.{{publication.chemrxiv}}" title = "ChemRxiv Preprint: {{publication.chemrxiv}} (opens in new tab)" target="_blank"> {{publication.medrxiv}}</a></li>
+                <li>MedRxiv Preprint: <a href="https://doi.org/10.1101/medrxiv.{{publication.chemrxiv}}" title = "MedRxiv Preprint: {{publication.medrxiv}} (opens in new tab)" target="_blank"> {{publication.medrxiv}}</a></li>
                 {% endif %}i
                 
                 <!--Medrxiv specific version-->
