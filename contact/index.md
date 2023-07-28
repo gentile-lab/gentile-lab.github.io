@@ -8,8 +8,9 @@ group: contact
 
 <div class="row">
 <div class="col-md-5">
-  <p>
+
   <h4>Francesco Gentile, Ph.D.</h4>
+  <p>
   Assistant Professor, University of Ottawa<br>
   [Department of Chemistry and Biomolecular Sciences](https://www.uottawa.ca/faculty-science/chemistry-biomolecular-sciences)<br>
   [Ottawa Institute of Systems Biology](https://www.uottawa.ca/research-innovation/ottawa-institute-systems-biology)
