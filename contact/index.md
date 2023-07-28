@@ -5,9 +5,8 @@ group: contact
 ---
 
 # Contact the Gentile Lab
-<br>
-<div class="row">
 
+<div class="row">
 <div class="col-md-5">
 
   <h4>Francesco Gentile, Ph.D.</h4>
