@@ -22,7 +22,7 @@ group: contact
   tel: +1 (613) 562-5800 #3971<br>
   email: fgentile (at) uottawa.ca
 
-<a href="https://github.com/gentile-lab"><img class="inline-block mem-icon" src="/static/img/logo/github_logo.svg" style="font-size: 1em;"></a>
+<a href="https://github.com/gentile-lab"><img class="inline-block mem-icon" src="/static/img/logo/github_logo.svg" style="font-size: 4em;"></a>
 <a href="https://scholar.google.com/citations?user=Sm3NG60AAAAJ&hl=it"><img class="inline-block mem-icon" src="/static/img/logo/gscholar_logo.svg"></a>
 <a href="https://www.researchgate.net/profile/Francesco-Gentile"><img class="inline-block mem-icon" src="/static/img/logo/rgate_logo.png"></a>
 <a href="https://www.linkedin.com/in/francesco-gentile-513a9ba0/"><img class="inline-block mem-icon" src="/static/img/logo/linkedin_logo.svg"></a>
