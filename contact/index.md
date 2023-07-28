@@ -35,7 +35,7 @@ group: contact
 
 </div>
 
-## Land Acknowledgement Statement
+### Land Acknowledgement Statement
 
 Ni manàdjiyànànig Màmìwininì Anishinàbeg, ogog kà nàgadawàbandadjig iyo akì eko weshkad. Ako nongom egawìkàd kì mìgiwewàdj.
 Ni manàdjiyànànig kakina Anishinàbeg ondaje kaye ogog kakina eniyagizidjig enigokamigàg Kanadàng eji ondàpinangig endàwàdjin Odàwàng.
