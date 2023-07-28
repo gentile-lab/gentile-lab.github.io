@@ -31,7 +31,7 @@ group: contact
 
 <div class="col-md-6">
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2800.456072956571!2d-75.68328092391657!3d45.42030697107328!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cce05b6ced05641%3A0x57a01c13e73f9079!2sSTEM%20Complex%20(STM)!5e0!3m2!1sen!2sca!4v1689975841667!5m2!1sen!2sca" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2800.456072956571!2d-75.68328092391657!3d45.42030697107328!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cce05b6ced05641%3A0x57a01c13e73f9079!2sSTEM%20Complex%20(STM)!5e0!3m2!1sen!2sca!4v1689975841667!5m2!1sen!2sca" width="500" height="375" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br>
 
 </div>
 
