@@ -8,18 +8,25 @@ group: contact
 
 <div class="row">
 <div class="col-md-5">
-
+  <p>
   <h4>Francesco Gentile, Ph.D.</h4>
   Assistant Professor, University of Ottawa<br>
   [Department of Chemistry and Biomolecular Sciences](https://www.uottawa.ca/faculty-science/chemistry-biomolecular-sciences)<br>
   [Ottawa Institute of Systems Biology](https://www.uottawa.ca/research-innovation/ottawa-institute-systems-biology)<br>
-  office: STM-351<br>
-  lab: STM 607-624<br>
+  <p/>
+  
+  <p>
+  **office:** STM-351<br>
+  **lab:** STM 607-624<br>
   STEM Complex<br>
   150 Louis-Pasteur Private<br>
   Ottawa, ON K1N 9A7, Canada<br>
-  tel: +1 (613) 562-5800 #3971<br>
-  email: fgentile (at) uottawa.ca
+  </p>
+
+  <p>
+  **tel:** +1 (613) 562-5800 #3971<br>
+  **email:** fgentile (at) uottawa.ca
+  <p/>
 
 <a href="https://github.com/gentile-lab"><img class="inline-block mem-icon" src="/static/img/logo/github_logo.svg"></a>
 <a href="https://scholar.google.com/citations?user=Sm3NG60AAAAJ&hl=it"><img class="inline-block mem-icon" src="/static/img/logo/gscholar_logo.svg"></a>
