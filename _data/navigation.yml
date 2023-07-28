@@ -26,9 +26,9 @@
 #  link: "/philosophy"
 #  group: philosophy
 
-- name: news
-  link: "/news"
-  group: news
+#- name: news
+#  link: "/news"
+#  group: news
 
 - name: join
   link: "/join"
