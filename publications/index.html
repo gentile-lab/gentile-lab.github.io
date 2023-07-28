@@ -1,5 +1,5 @@
 ---
-title: Publications from the Fraser Lab
+title: Publications
 layout: default
 group: publications
 ---
@@ -10,7 +10,7 @@ group: publications
 {% for publication in sorted %}
 
 <hr>
-<div class="row" style="padding-top: 60px; margin-top: -60px;" id="{{publication.pmid}}">
+<div class="row" style="padding-top: 60px, margin-top: -60px," id="{{publication.pmid}}">
 	<div>
 		<h5>{{ publication.title | markdownify  | remove: '<p>' | remove: '</p>'}}</h5>
 		<h6>{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}</h6>
@@ -18,12 +18,19 @@ group: publications
 			<i>{{ publication.journal }},</i>
 			{{publication.pub_date | split: "-" | first }}
 		{% else %}
+                       
 			{% if publication.biorxiv %}
 			<i>Biorxiv,</i>
 				{{publication.biorxiv | split: "." | first }}
 			{% elsif publication.biorxiv_version %}
 			<i>Biorxiv,</i>
 				{{publication.biorxiv_version | split: "." | first }}
+                        {% elsif publication.medrxiv %}
+                        <i>Medrxiv,</i>
+                                {{publication.medrxiv | split: "." | first }}
+                        {% elsif publication.medrxiv_version %}
+                        <i>Medrxiv,</i>
+                                {{publication.medrxiv_version | split: "." | first }}
 			{% else %}
 			<i>Preprint,</i>
 				{{publication.pub_date | split: "-" | first }}
@@ -31,14 +38,20 @@ group: publications
 		{% endif %}
 	</div>
 </div>
+<br>
 
-<div class="row" style="padding-top: 20px; margin-top: -20px">
+<div class="row" style="padding-top: 20px, margin-top: -20px">
 	<div class="col-sm-6">
-		<img class = "img-fluid" src = "{{publication.image}}" alt =  "Key Figure" style="max-height: 200px;">
+		<img class = "img-fluid" src = "{{publication.image}}" alt =  "Key Figure" width="50%" style="display: block, margin: auto,">
 	</div>
 	<ul class="col-sm-6">
 		<br>
 		<h6>Access the paper</h6>
+                <!--Link-->
+                {% if publication.link %}
+                <li><a href="{{publication.link}}" title = "Link: {{publication.link}} (opens in new tab)" target="_blank"> Link</a></li>
+                {% endif %}
+
 		<!--PMID-->
 		{% if publication.pmid %}
 		<li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" title = "PubMed: {{publication.pmid}} (opens in new tab)" target="_blank"> {{publication.pmid}}</a></li>
@@ -68,9 +81,19 @@ group: publications
 		{% if publication.chemrxiv %}
 		<li>ChemRxiv Preprint: <a href="https://doi.org/10.26434/chemrxiv.{{publication.chemrxiv}}" title = "ChemRxiv Preprint: {{publication.chemrxiv}} (opens in new tab)" target="_blank"> {{publication.chemrxiv}}</a></li>
 		{% endif %}
+                
+                <!--Medrxiv - optional -->
+                {% if publication.medrxiv %}
+                <li>MedRxiv Preprint: <a href="https://doi.org/10.1101/medrxiv.{{publication.chemrxiv}}" title = "MedRxiv Preprint: {{publication.medrxiv}} (opens in new tab)" target="_blank"> {{publication.medrxiv}}</a></li>
+                {% endif %}
+                
+                <!--Medrxiv specific version-->
+                {% if publication.medrxiv_version %}
+                <li>Medrxiv Preprint v{{publication.medrxiv_version | split: "." | last | split: "v" | last }}: <a href="http://www.medrxiv.org/content/10.1101/{{publication.medrxiv_version}}" title =  "MedRxiv Preprint: {{publication.medrxiv_version}} (opens in new tab)" target="_blank">{{publication.medrxiv_version | split: "." | last | split: "v" | first }}</a></li>
+                {% endif %}                
 
 		<!-- PDF -->
-		{% if publication.journal %}
+		{% if publication.pdf %}
 		<li><a href="{{publication.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank"> Full Text</a></li>
 		{% endif %}
 
@@ -169,4 +192,35 @@ group: publications
 </div>
 <br>
 {% endfor %}
+</div>
+
+<div>
+<h3>Before uOttawa</h3>
+
+25. Lee, J., Kenward, C., Worrall, L., Vuckovic, M., <strong>Gentile, F.</strong>, Ton, A.T., Ng, M., Cherkasov, A., Paetzel, M., Strynadka, N. X-ray crystallographic characterization of the SARS-CoV-2 main protease polyprotein cleavage sites essential for viral processing and maturation. Nat. Commun. 2022, 13, 5196.<br>
+24. Weilbeer, C., Jay, D., Donnelly, J. C., <strong>Gentile, F.</strong>, Karimi-Busheri, F., Yang, X., Mani, R. S., Yu, Y., Elmenoufy, A. H., Barakat, K. H., Tuszynski, J. A., Weinfeld, M., West, F. G. Modulation of ERCC1-XPF Heterodimerization Inhibition via Structural Modification of Small Molecule Inhibitor Side-Chains. Front. Oncol. 2022, 12, 493.<br>
+23. Pandey, M., Fernandez, M., <strong>Gentile, F.</strong>, Isayev, O., Tropsha, A., Stern, A. C., Cherkasov, A. The transformational role of GPU computing and deep learning in drug discovery. Nat. Mach. Intell. 2022, 4, 211–221.<br>
+22. <strong>Gentile, F.</strong>, Yaacoub, J. C., Gleave, J., Fernandez, M., Ton, A.-T. T., Ban, F., Stern, A., Cherkasov, A. Artificial intelligence–enabled virtual screening of ultra-large chemical libraries with deep docking. Nat. Protoc. 2022, 17, 672–697.<br>
+21. Yaacoub, J. C., Gleave, J., <strong>Gentile, F.</strong>, Stern, A., Cherkasov, A. DD-GUI: a graphical user interface for deep learning-accelerated virtual screening of large chemical libraries (Deep Docking). Bioinformatics 2022, 38, 1146–1148.<br>
+20. <strong>Gentile, F.</strong>, Fernandez, M., Ban, F., Ton, A.-T., Mslati, H., Perez, C. F., Leblanc, E., Yaacoub, J. C., Gleave, J., Stern, A., Wong, B., Jean, F. F., Strynadka, N. C. J., Cherkasov, A. Automated Discovery of Noncovalent Inhibitors of SARS-CoV-2 Main Protease by Consensus Deep Docking of 40 Billion Small Molecules. Chem. Sci. 2021, 12, 15960–15974.<br>
+19. Mslati, H., <strong>Gentile, F.</strong>, Perez, C., Cherkasov, A. Comprehensive Consensus Analysis of SARS-CoV-2 Drug Repurposing Campaigns. J. Chem. Inf. Model. 2021, 61, 3771–3788.<br>
+18. Ciniero, G., Elmenoufy, A. H., <strong>Gentile, F.</strong>, Weinfeld, M., Deriu, M. A., West, F. G., Tuszynski, J. A., Dumontet, C., Cros-Perrial, E., Jordheim, L. P. Enhancing the activity of platinum-based drugs by improved inhibitors of ERCC1–XPF-mediated DNA repair. Cancer Chemother. Pharmacol. 2021, 87, 259–267.<br>
+17. Lee, J., Worrall, L. J., Vuckovic, M., Rosell, F. I., <strong>Gentile, F.</strong>, Ton, A.-T., Caveney, N. A., Ban, F., Cherkasov, A., Paetzel, M., Strynadka, N. C. J. Crystallographic structure of wild-type SARS-CoV-2 main protease acyl-enzyme intermediate with physiological C-terminal autoprocessing site. Nat. Commun. 2020, 11, 5877.<br>
+16. Elmenoufy, A. H., <strong>Gentile, F.</strong>, Jay, D., Karimi-Busheri, F., Yang, X., Soueidan, O. M., Mani, R. S., Ciniero, G., Tuszynski, J. A., Weinfeld, M., West, F. G. Design, synthesis and in vitro cell-free/cell-based biological evaluations of novel ERCC1-XPF inhibitors targeting DNA repair pathway. Eur. J. Med. Chem. 2020, 204.<br>
+15. <strong>Gentile, F.</strong>, Agrawal, V., Hsing, M., Ton, A. T., Ban, F., Norinder, U., Gleave, M. E., Cherkasov, A. Deep Docking: A Deep Learning Platform for Augmentation of Structure Based Drug Discovery. ACS Cent. Sci. 2020, 6, 939–949.<br>
+14. Ton, A.-T., <strong>Gentile, F.</strong>, Hsing, M., Ban, F., Cherkasov, A. Rapid Identification of Potential Inhibitors of SARS- CoV-2 Main Protease by Deep Docking of 1.3 Billion Compounds. Mol. Inform. 2020, 39, 1–18.<br>
+13. Agrawal, V., <strong>Gentile, F.</strong>, Hsing, M., Ban, F., Cherkasov, A. Progressive Docking – Deep Learning Based Approach for Accelerated Virtual Screening. Lect. Notes Comput. Sci. 2019, 11731 LNCS, pp 737–740.<br>
+12. <strong>Gentile, F.</strong>, Elmenoufy, A. H., Ciniero, G., Jay, D., Karimi-Busheri, F., Barakat, K. H., Weinfeld, M., West, F. G., Tuszynski, J. A. Computer-aided drug design of small molecule inhibitors of the ERCC1-XPF protein–protein interaction. Chem. Biol. Drug Des. 2020, 95, 460–471.<br>
+11. Preto, J., <strong>Gentile, F.</strong> Assessing and improving the performance of consensus docking strategies using the DockBox package. J. Comput. Aided. Mol. Des. 2019, 33, 817–829.<br>
+10. Elmenoufy, A. H., <strong>Gentile, F.</strong>, Jay, D., Karimi-Busheri, F., Yang, X., Soueidan, O. M., Weilbeer, C., Mani, R. S., Barakat, K. H., Tuszynski, J. A., Weinfeld, M., West, F. G. Targeting DNA Repair in Tumor Cells via Inhibition of ERCC1-XPF. J. Med. Chem. 2019, 62, 7684–7696.<br>
+9. <strong>Gentile, F.</strong>, Barakat, K., Tuszynski, J. Computational Characterization of Small Molecules Binding to the Human XPF Active Site and Virtual Screening to Identify Potential New DNA Repair Inhibitors Targeting the ERCC1-XPF Endonuclease. Int. J. Mol. Sci. 2018, 19, 1328.<br>
+8. <strong>Gentile, F.</strong>, Deriu, M. A., Barakat, K. H., Danani, A., Tuszynski, J. A. A novel interaction between the TLR7 and a colchicine derivative revealed through a computational and experimental study. Pharmaceuticals 2018, 11, 22.<br>
+7. Preto, J., <strong>Gentile, F.</strong>, Winter, P., Churchill, C., Omar, S. I., Tuszynski, J. A. Molecular dynamics and related computational methods with applications to drug discovery. In Coupled Mathematical Models for Physical and Biological Nanoscale Systems and Their Applications, Bonilla, L. L., Kaxiras, E., Melnik, R., Eds., Springer, Cham, 2018, Vol. 232, pp. 267–285 ISBN 9783319765983.<br>
+6. Sheff, J. G., Farshidfar, F., Bathe, O. F., Kopciuk, K., <strong>Gentile, F.</strong>, Tuszynski, J., Barakat, K., Schriemer, D. C. Novel Allosteric Pathway of Eg5 Regulation Identified through Multivariate Statistical Analysis of Hydrogen-Exchange Mass Spectrometry (HX-MS) Ligand Screening Data. Mol. Cell. Proteomics 2017, 16, 428–437.<br>
+5. <strong>Gentile, F.</strong>, Tuszynski, J. A., Barakat, K. H. Commentary: New design of nucleotide excision repair (NER) inhibitors for combination cancer therapy. J Cancer Treat Diagnosis 2017, 1, 1–3.<br>
+4. <strong>Gentile, F.</strong>, Tuszynski, J. A., Barakat, K. H. New design of nucleotide excision repair (NER) inhibitors for combination cancer therapy. J. Mol. Graph. Model. 2016, 65, 71–82.<br>
+3. <strong>Gentile, F.</strong>, A. Tuszynski, J., H. Barakat, K. Modelling DNA Repair Pathways: Recent Advances and Future Directions. Curr. Pharm. Des. 2016, 22, 3527–3546.<br>
+2. <strong>Gentile, F.</strong>, Deriu, M. A., Licandro, G., Prunotto, A., Danani, A., Tuszynski, J. A. Structure based modeling of small molecules binding to the TLR7 by atomistic level simulations. Molecules 2015, 20, 8316–8340.<br>
+1. Tuszynski, J. A., Winter, P., White, D., Tseng, C. Y., Sahu, K. K., <strong>Gentile, F.</strong>, Spasevska, I., Omar, S. I., Nayebi, N., Churchill, C. D., Klobukowski, M., El-Magd, R. M. A. Mathematical and computational modeling in biology at multiple scales. Theor. Biol. Med. Model. 2014, 11, 52.<br>
+
 </div>
