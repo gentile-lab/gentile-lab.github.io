@@ -13,7 +13,7 @@ group: contact
   Assistant Professor, University of Ottawa<br>
   [Department of Chemistry and Biomolecular Sciences](https://www.uottawa.ca/faculty-science/chemistry-biomolecular-sciences)<br>
   [Ottawa Institute of Systems Biology](https://www.uottawa.ca/research-innovation/ottawa-institute-systems-biology)
-  <p/>
+  </p>
   
   <p>
   **office:** STM-351<br>
@@ -25,7 +25,7 @@ group: contact
   <p>
   **tel:** +1 (613) 562-5800 #3971<br>
   **email:** fgentile (at) uottawa.ca
-  <p/>
+  </p>
 
 <a href="https://github.com/gentile-lab"><img class="inline-block mem-icon" src="/static/img/logo/github_logo.svg"></a>
 <a href="https://scholar.google.com/citations?user=Sm3NG60AAAAJ&hl=it"><img class="inline-block mem-icon" src="/static/img/logo/gscholar_logo.svg"></a>
