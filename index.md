@@ -16,6 +16,5 @@ Our research focuses on computer-aided drug discovery at the interface of chemis
 We gratefully acknowledge the support from:
 {: .welcomefont}
 
-<p style="text-align:center;">
-<img src="/static/img/logo/funding2.png" width="90%">
-<p/>
+<p style="text-align:center;"><img src="/static/img/logo/funding2.png" width="90%">
+</p>
