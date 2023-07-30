@@ -5,7 +5,7 @@ group: join
 ---
 
 # Join the Gentile Lab
-We welcome applicants from any race, ethnicity, religion, gender, caregiver and family commitments, sexual orientation, and eligible age or disability status. We strive to maintain a collaborative and supportive lab environment. We have regular position openings at all levels (undergraduate, graduate, postdoc).
+We welcome applicants from any race, ethnicity, religion, gender, caregiver and family commitments, sexual orientation, and eligible age or disability status. We strive to maintain a collaborative and supportive lab environment. We have regular position openings at all levels (undergraduate, graduate, postdoc), which will be listed in the sections below.
 
 # How to apply
 
@@ -19,7 +19,7 @@ We suggest to read this [article](https://www.nature.com/articles/d41586-023-007
 
 ## Undergraduate Students
 
-We usually have few positions avaliable for honour's projects, [UROP](https://www.uottawa.ca/research-innovation/sites/g/files/bhrskd326/files/2022-08/IREX%20Guidelines%20-%20UROP%202022-23_2.pdf) and volunteers, among others, for undergraduate students. 
+We usually have few positions avaliable for honour's projects, [UROP](https://www.uottawa.ca/research-innovation/sites/g/files/bhrskd326/files/2022-08/IREX%20Guidelines%20-%20UROP%202022-23_2.pdf) and volunteers, among others, for undergraduate students.
 
 **Open positions for undergraduate students:**
 
@@ -31,7 +31,7 @@ Graduate students in the Gentile Lab can enroll in the [M.Sc.](https://catalogue
 
 ## Postdoctoral Fellows
 
-Externally funded postdoctoral applicants are welcome to always contact [Dr. Gentile](fgentile@uottawa.ca). Fully funded postdoctoral opportunities will be listed below.
+Externally funded postdoctoral applicants are always welcome to contact [Dr. Gentile](fgentile@uottawa.ca). Fully funded postdoctoral opportunities will be listed below.
 
 **Open positions for postdoctoral fellows:**
 
