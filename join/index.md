@@ -9,7 +9,7 @@ We have regular position openings at all levels (undergraduate, graduate, postdo
 
 
 ### How to apply
-In order to be considered for one of the open positions listed below, please send an email to [Dr. Gentile](fgentile@uottawa.ca) with the position name in the subject, with the following documents attached (preferably as pdf):
+In order to be considered for one of the open positions listed below, please send an email to [Dr. Gentile](https://gentile-lab.github.io/contact/) with the position name in the subject, with the following documents attached (preferably as pdf):
 
 - cover letter
 - up-to-date CV
@@ -30,7 +30,7 @@ Graduate students in the Gentile Lab can enroll in the [M.Sc.](https://catalogue
 - One graduate research position (either at M.Sc. or Ph.D. level) on AI-augmented design of antibody drug conjugates is available. The research is co-supervised by Dr. Gentile in the Department of Chemistry and Biomolecular Sciences and [Dr. Leyton](https://scholar.google.com/citations?user=ggmSpcIAAAAJ&hl=en) in the School of Pharmaceutical Sciences at the University of Ottawa. Please check the full [announcement](https://www.uottawa.ca/faculty-medicine/sites/g/files/bhrskd401/files/2023-07/Offer_AI_ADC_English%20(002).pdf) for further details
 
 ### Postdoctoral Fellows
-Externally funded postdoctoral applicants are always welcome to contact [Dr. Gentile](fgentile@uottawa.ca). Fully funded postdoctoral opportunities will be listed below.
+Externally funded postdoctoral applicants are always welcome to contact [Dr. Gentile](https://gentile-lab.github.io/contact/). Fully funded postdoctoral opportunities will be listed below.
 
 **Open positions for postdoctoral fellows:**
 
