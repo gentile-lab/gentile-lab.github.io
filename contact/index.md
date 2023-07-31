@@ -11,7 +11,7 @@ group: contact
 
   <h4>Francesco Gentile, Ph.D.</h4>
   <p>
-  Assistant Professor, University of Ottawa<br>
+  Assistant Professor, [University of Ottawa](https://www.uottawa.ca/en)<br>
   [Department of Chemistry and Biomolecular Sciences](https://www.uottawa.ca/faculty-science/chemistry-biomolecular-sciences)<br>
   [Ottawa Institute of Systems Biology](https://www.uottawa.ca/research-innovation/ottawa-institute-systems-biology)
   </p>
