@@ -13,8 +13,8 @@ group: contact
   <p>
   Assistant Professor<br>
   [Department of Chemistry and Biomolecular Sciences](https://www.uottawa.ca/faculty-science/chemistry-biomolecular-sciences)<br>
-  [Ottawa Institute of Systems Biology](https://www.uottawa.ca/research-innovation/ottawa-institute-systems-biology)<a>
-  University of Ottawa<a>
+  [Ottawa Institute of Systems Biology](https://www.uottawa.ca/research-innovation/ottawa-institute-systems-biology)<br>
+  University of Ottawa
   </p>
   
   <p>
