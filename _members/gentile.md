@@ -2,7 +2,7 @@
 name: Francesco Gentile, Ph.D.
 startdate: [2022-08-01]
 enddate: []
-image: /static/img/members/gentile.jpg
+image: /static/img/members/gentile.png
 position: Principal Investigator
 #current:
 email: fgentile (at) uottawa.ca
