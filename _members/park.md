@@ -1,6 +1,6 @@
 ---
-name: Rahul Ravichandran, Ph.D.
-startdate: [2023-09-01]
+name: Sumin Park
+startdate: [2023-090-01]
 enddate: []
 image: /static/img/members/ravichandran.jpg #365 x 365 pixels, 72 dpi
 position: "Postdoctoral Fellow""
