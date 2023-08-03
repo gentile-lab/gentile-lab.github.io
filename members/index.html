@@ -61,7 +61,7 @@ group: members
                 {{member.description | markdownify}}
             </div>
         </div>
-
+{% endfor %}
 <hr>
 
 <h3>Postdoctoral Fellows</h3>
@@ -166,8 +166,8 @@ group: members
             </div>
         </div>
 {% endfor %}
-
 <hr>
+
 <h3>Undergraduate Students</h3>
 {% for member in site.members %}
 
@@ -218,8 +218,8 @@ group: members
             </div>
         </div>
 {% endfor %}
-
 <hr>
+
 <h3>Visiting</h3>
 {% for member in site.members %}
 
@@ -270,7 +270,6 @@ group: members
             </div>
         </div>
 {% endfor %}
-
 <hr>
 
 {% endfor %}
