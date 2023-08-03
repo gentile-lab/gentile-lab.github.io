@@ -3,7 +3,7 @@ name: Rahul Ravichandran, Ph.D.
 startdate: [2023-09-01]
 enddate: []
 image: /static/img/members/ravichandran.jpg #365 x 365 pixels, 72 dpi
-position: "Postdoctoral Fellow""
+position: "Postdoctoral Fellow"
 #subsequent:  update once you become an alumnus
 scholar: 5bLGrXsAAAAJ
 website:
