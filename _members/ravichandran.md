@@ -8,9 +8,6 @@ position: "Postdoctoral Fellow"
 scholar: 5bLGrXsAAAAJ
 twitter: MyBrainAche
 linkedin: rahul-ravichandran-612170b6
-github:
-researchgate: Rahul-Ravichandran
-orcid:
 description: "Rahul received his Bachelor’s of Technology in Bioinformatics from D.Y.Patil University, Navi Mumbai. He was also a Bachelor's thesis student at Bhabha Atomic Research Centre (BARC), Mumbai. He attained his Master’s of Technology in Bioinformatics in 2018 at SASTRA University, India. He was also a Master's thesis student at University of Malaya, Malaysia. In June 2023, Rahul completed his PhD in Biomolecular Sciences at the University of Campania “Luigi Vanvitelli”, Italy under the supervision of Prof. [Sandro Cosconati](https://sites.google.com/site/thecosconatilab/home/people). 
 
 Rahul's main interest resides in the application of advanced structure-based methods in drug design.
