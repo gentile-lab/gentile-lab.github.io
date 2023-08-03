@@ -6,7 +6,6 @@ image: /static/img/members/ravichandran.jpg #365 x 365 pixels, 72 dpi
 position: "Postdoctoral Fellow"
 #subsequent:  update once you become an alumnus
 scholar: 5bLGrXsAAAAJ
-website:
 twitter: MyBrainAche
 linkedin: rahul-ravichandran-612170b6
 github:
