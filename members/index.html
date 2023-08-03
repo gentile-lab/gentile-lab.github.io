@@ -6,10 +6,6 @@ group: members
 
 <h1>Gentile Lab Members</h1>
 
-{% unless member.enddate == empty or member.startdate.size != member.enddate.size %}
-{% continue %}
-{% endunless %}
-
 <h3>PI</h3>
 {% for member in site.members %}
 
