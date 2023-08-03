@@ -1,6 +1,6 @@
 ---
 name: Sumin Park
-startdate: [2023-09-01]
+startdate: [2023-09-04]
 enddate: []
 image: /static/img/members/park.jpg #365 x 365 pixels, 72 dpi
 position: "M.Sc. Student"
