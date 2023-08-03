@@ -61,14 +61,14 @@ group: members
         </div>
 {% endfor %}
 <hr>
-<h4>Affiliates</h4>
+<h3>Postdoctoral Fellows</h3>
 {% for member in site.members %}
 
 {% unless member.enddate == empty %}
 {% continue %}
 {% endunless %}
 
-{% unless member.position contains "Affiliate" %}
+{% unless member.position contains "Postdoc" %}
 {% continue %}
 {% endunless %}
 
