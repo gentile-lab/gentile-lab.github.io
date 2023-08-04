@@ -8,7 +8,7 @@ group: join
 We regularly open research positions at all levels (undergraduate, graduate, postdoc), which will be listed in the sections below. We welcome applicants from any race, ethnicity, religion, gender, caregiver and family commitments, sexual orientation, and eligible age or disability status. We are strongly committed to maintain a collaborative and supportive lab environment which can be enjoyed by all our lab members.
 
 ### How to apply
-In order to be considered for one of the open positions listed below, please send an email to [Dr. Gentile](https://gentile-lab.github.io/contact/) with the position name in the subject, with the following documents attached (preferably as pdf):
+In order to be considered for one of the open positions listed below, please send an email to [Dr. Gentile](https://gentile-lab.github.io/contact/) with the position name in the subject, with the following documents attached as a single pdf:
 
 - cover letter
 - up-to-date CV
