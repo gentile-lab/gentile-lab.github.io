@@ -27,7 +27,7 @@
 {% endif %}
 
 {% if member.subsequent %}
-Subsequently: {{member.subsequent}} <br>
+After: {{member.subsequent}} <br>
 {% endif %}
 
 {% if member.email %}

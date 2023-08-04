@@ -12,7 +12,7 @@ twitter:
 linkedin: francesco-gentile-513a9ba0
 github: gentile-lab
 orcid: 0000-0001-8299-1976
-description: "Francesco is originally from [Cuneo](https://en.wikipedia.org/wiki/Cuneo), a beautiful small town in the Alps located in Northwest Italy. He did his bachelor's and master's in Bioengineering at Politecnico di Torino, where he developed a strong interest in molecular modeling.
+description: "Francesco is originally from [Cuneo](https://en.wikipedia.org/wiki/Cuneo), a beautiful small town in Northwest Italy's Alps. He did his bachelor's and master's in Bioengineering at Politecnico di Torino, where he developed a strong interest in molecular modeling.
 
 
 In 2014, he moved to Alberta, Canada, to do a Ph.D. in computational physics at the University of Alberta, under the supervision of [Jack Tuszynski](https://scholar.google.ca/citations?user=vQh8WdcAAAAJ&hl=en) and [Khaled Barakat](https://scholar.google.com/citations?user=j-f21_sAAAAJ&hl=en). During his Ph.D., he worked on discovering and designing small molecule inhibitors of DNA repair proteins that could enhance cancer chemotherapy. His research was primarly supported by an [Alberta Innovates graduate scholarship](https://albertainnovates.ca/funding/graduate-student-scholarships/).
