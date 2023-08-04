@@ -17,7 +17,7 @@ In order to be considered for one of the open positions listed below, please sen
 We suggest to read this [article](https://www.nature.com/articles/d41586-023-00786-8) before preparing your application package.
 
 ###  Undergraduate Students
-We usually have few positions avaliable for honour's projects, [UROP](https://www.uottawa.ca/research-innovation/sites/g/files/bhrskd326/files/2022-08/IREX%20Guidelines%20-%20UROP%202022-23_2.pdf) and volunteers, among others, for undergraduate students.
+We usually have few positions avaliable for honours projects, [UROP](https://www.uottawa.ca/research-innovation/sites/g/files/bhrskd326/files/2022-08/IREX%20Guidelines%20-%20UROP%202022-23_2.pdf) and volunteers, among others, for undergraduate students.
 
 ##### Open positions for undergraduate students:
 
