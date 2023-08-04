@@ -7,8 +7,7 @@ position: Assistant Professor
 #current:
 email: fgentile (at) uottawa.ca
 scholar: Sm3NG60AAAA
-website:
-UCSF:
+website: https://www.uottawa.ca/faculty-science/professors/francesco-gentile
 twitter:
 linkedin: francesco-gentile-513a9ba0
 github: gentile-lab
