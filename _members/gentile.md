@@ -21,7 +21,7 @@ In 2014, he moved to Alberta, Canada, to do a Ph.D. in computational physics at 
 In 2019, Francesco moved to Vancouver, B.C., to work as postdoc in the lab of [Art Cherkasov](https://www.prostatecentre.com/about-us/people/dr-art-cherkasov) at the Vancouver Prostate Centre. There, he developed novel machine learning methods for structure-based virtual screening and used them to identify novel small molecule inhibitors of SARS-CoV-2 main protease and key proteins involved in resistant prostate and breast cancer. His postdoctoral research was supported by an [Ermenegildo Zegna Founder's Scholarship](https://www.zegnagroup.com/en/our-actions/founders-scholarship/), a [CIHR fellowship](https://cihr-irsc.gc.ca/e/38886.html), and a joint fellowship from [Michael Smith Foundation for Health Research]( https://healthresearchbc.ca/fundingprogram/research-trainee-program) and [Vancouver Coastal Health Research Institute/ VGH & UBC Hospital Foundation](https://vghfoundation.ca/).
 
 
-In August 2022, Francesco joined the Department of Chemistry and BIomolecular Sciences as Assistant Professor. Since 2023, he is also a Principal Investigator at the Ottawa Institute for Systems BIology.
+In August 2022, Francesco joined the [Department of Chemistry and Biomolecular Sciences](https://www.uottawa.ca/faculty-science/chemistry-biomolecular-sciences) at the University of Ottawa as Assistant Professor. Since 2023, he is also a Principal Investigator at the [Ottawa Institute of Systems Biology](https://www.uottawa.ca/research-innovation/ottawa-institute-systems-biology).
 
 
 Outside the lab, he enjoys playing basketball, biking, fishing, and traveling around the world."
