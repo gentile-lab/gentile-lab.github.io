@@ -13,29 +13,17 @@ twitter:
 linkedin: francesco-gentile-513a9ba0
 github: gentile-lab
 orcid: 0000-0001-8299-1976
-description: "James was an undergraduate at McGill University, where he worked in the lab of [Dr. Francois Fagotto](https://www.crbm.cnrs.fr/team/morphogenesis/?lang=en) on [Xenopus developmental biology](/publications#20974811).
-During the summers, he returned to his hometown of Toronto and worked in [Dr. Alan Davidson's lab](http://individual.utoronto.ca/Davidsonlab/) on TetR repressor biophysics and [bacteriophage genomics](/publications#16631788).
+description: "Francesco is originally from [Cuneo](https://en.wikipedia.org/wiki/Cuneo), a beautiful small town in the Alps located in Northwest Italy. He did his bachelor's and master's in Bioengineering at Politecnico di Torino, where he developed a strong interest in molecular modeling.
 
 
-He moved to California in 2005 to do his Ph.D. in [Molecular and Cellular Biology at UC Berkeley](http://mcb.berkeley.edu).
-There, he worked with [Dr. Tom Alber](http://fraserlab.com/2014/04/04/Tom-Alber/) creating  biophysical methods to characterize [protein side chain flexibility](/publications#20499387) in [high resolution](/publications#17573816) X-ray [electron density maps](/publications#24363322).
-They applied these techniques to study connections between [conformational dynamics and enzymatic catalysis](/publications#19956261), showing that [room temperature](/publications#21918110), but not standard cryogenic, X-ray data collection could reveal the structural basis for critical functional motions.
+In 2014, he moved to Alberta, Canada, to do a Ph.D. in computational physics at the University of Alberta, under the supervision of [Jack Tuszynski](https://scholar.google.ca/citations?user=vQh8WdcAAAAJ&hl=en) and [Khaled Barakat](https://scholar.google.com/citations?user=j-f21_sAAAAJ&hl=en). During his Ph.D., he worked on discovering and designig small molecule inhibitors of DNA repair proteins that could enhance cancer chemotherapy. His research was primarly supported by an [Alberta Innovates graduate scholarship](https://albertainnovates.ca/funding/graduate-student-scholarships/).
 
 
-Near the end of his Ph.D., he was an [EMBO Short-Term Fellow](http://www.embo.org/funding-awards/fellowships/short-term-fellowships) in [Dr. Dan Tawfik's lab](https://www.weizmann.ac.il/Biomolecular_Sciences/obituary/prof-dan-tawfik) at the Weizmann Institute of Science.
-Concurrently, he authored the problems and solutions manual for the physical chemistry textbook [The Molecules of Life](http://www.garlandscience.com/product/isbn/9780815341888) by Kuriyan, Konforti, and Wemmer.
+In 2019, Francesco moved to Vancouver, B.C., to work as postdoc in the lab of [Art Cherkasov](https://www.prostatecentre.com/about-us/people/dr-art-cherkasov) at the Vancouver Prostate Centre. There, he developed novel machine learning methods for structure-based virtual screening and used them to identify novel small molecule inhibitors of SARS-CoV-2 main protease and key proteins involved in resistant prostate and breast cancer. His postdoctoral research was supported by an [Ermenegildo Zegna Founder's Scholarship](https://www.zegnagroup.com/en/our-actions/founders-scholarship/), a [CIHR fellowship](https://cihr-irsc.gc.ca/e/38886.html), and a joint fellowship from [Michael Smith Foundation for Health Research]( https://healthresearchbc.ca/fundingprogram/research-trainee-program) and [Vancouver Coastal Health Research Institute/ VGH & UBC Hospital Foundation](https://vghfoundation.ca/).
 
 
-In January 2011, James started his [independent career](http://fellows.ucsf.edu/) as a [QB3 at UCSF Fellow](http://qb3.ucsf.edu/events/mini-bio-james-fraser.shtml) affiliated with the [Department of Cellular and Molecular Pharmacology](http://cmp.ucsf.edu/).
-In January 2013, he was appointed as an Assistant Professor in the [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu) and the California Institute for Quantitative Biosciences ([QB3](http://qb3.org)) with promotion to Associate Professor in 2016, and Full Professor in 2020. Since 2022, he has been the Vice Dean of Research for the [UCSF School of Pharmacy](https://pharmacy.ucsf.edu/).
+In August 2022, Francesco joined the Department of Chemistry and BIomolecular Sciences as Assistant Professor. Since 2023, he is also a Principal Investigator at the Ottawa Institute for Systems BIology.
 
 
-The lab is also part of the [Macromolecular Structure Group at UCSF](http://msg.ucsf.edu) and [BioXFEL](http://www.bioxfel.org/), a Science and Technology Center established by the National Science Foundation.
-We maintain a deep connection with Macomolecular Crystallography [Beamline 8.3.1.](http://bl831.als.lbl.gov/~mcfuser/), directed by [Dr. James Holton](http://bl831.als.lbl.gov/~jamesh/), at the [Advanced Light Source](http://www-als.lbl.gov/). James is also a Faculty Scientist in the Molecular Biophysics and Integrated Bioimaging Division of Lawrence Berkeley National Lab, Associate Director of the [Biophysics Graduate Program](https://biophysics.ucsf.edu/), and Associate Director of the [Quantitative Biosciences Initiative](https://qbi.ucsf.edu/).
-
-
-In addition to all the exciting developments in the lab, James has long standing interests in [teaching](/courses), [baseball statistics](http://ibiomagazine.org/issues/november-2011-issue/james-fraser-a-michael-eisen.html), and [juggling](https://pharmacy.ucsf.edu/news/2020/10/labs-juggle-community-distance-during-covid-19). James is also on the board of ASAPbio, a non-profit organization dedicated to accelerating the pace of scientific discovery by making research outputs more accessible and reusable. The lab is committed to [publishing our code](https://github.com/fraser-lab), disseminating our datasets, posting manuscripts on preprint servers, and [participating in open peer review](https://www.youtube.com/watch?v=hYG5wTGh6aw&list=PLezPfyQ6lSolc6sOZ-an18oG3mZojuwb6&t=1280s). 
-
-
-His full conflicts of interest are available [here](/coi)."
+Outside the lab, he enjoys playing basketball, biking, fishing, and traveling around the world. 
 ---
