@@ -24,5 +24,5 @@ In 2019, Francesco moved to Vancouver, B.C., to work as postdoc in the lab of [A
 In August 2022, Francesco joined the Department of Chemistry and BIomolecular Sciences as Assistant Professor. Since 2023, he is also a Principal Investigator at the Ottawa Institute for Systems BIology.
 
 
-Outside the lab, he enjoys playing basketball, biking, fishing, and traveling around the world. 
+Outside the lab, he enjoys playing basketball, biking, fishing, and traveling around the world."
 ---
