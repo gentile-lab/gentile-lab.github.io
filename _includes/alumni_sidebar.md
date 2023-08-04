@@ -1,4 +1,4 @@
-## Fraser Lab Alumni
+## Alumni
 {% assign sorted = site.members | sort: "enddate" | reverse %}
 {% for member in sorted %}
 

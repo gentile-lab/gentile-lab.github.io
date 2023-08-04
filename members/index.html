@@ -6,7 +6,7 @@ group: members
 
 <h1>Gentile Lab Members</h1>
 
-<h3>PI</h3>
+<h3>The PI</h3>
 {% for member in site.members %}
 
 {% unless member.enddate == empty %}
@@ -169,7 +169,7 @@ group: members
 {% continue %}
 {% endunless %}
 
-{% unless member.position contains "Undergraduate" %}
+{% unless member.position contains "Undergraduate" or member.position contains "Honours"%}
 {% continue %}
 {% endunless %}
 
