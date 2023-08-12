@@ -40,8 +40,11 @@
 }
 
 .navbar {
+  min-height: 100px;
   margin-bottom: 20px;
 }
+
+
 
 .welcomefont {
   font-size: 1.5em;
