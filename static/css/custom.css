@@ -43,6 +43,10 @@
   margin-bottom: 20px;
 }
 
+.navbar-dark .navbar-nav .nav-link {;
+  font-size: xx-large;
+}
+
 .welcomefont {
   font-size: 1.3em;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
