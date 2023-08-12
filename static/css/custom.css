@@ -5,6 +5,11 @@
    }
 }
 
+.navbar-brand
+    {
+      font-size: larger;
+    }
+
 .video-container {
     position: relative;
     padding-bottom: 56.25%;
@@ -40,13 +45,7 @@
 }
 
 .navbar {
-  min-height: 50px;
   margin-bottom: 20px;
-}
-
-.navbar-brand
-{
-  font-size: 25px
 }
 
 .welcomefont {
