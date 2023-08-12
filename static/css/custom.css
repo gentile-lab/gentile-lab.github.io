@@ -36,11 +36,15 @@
 }
 
 .navb-icon {
-  height: 1.8em;
+  height: 2em;
 }
 
 .navbar {
   margin-bottom: 20px;
+}
+
+.navbar-brand {
+  font-size: 18px;
 }
 
 .nav-link {
