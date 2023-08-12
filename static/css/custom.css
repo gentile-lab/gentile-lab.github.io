@@ -43,7 +43,11 @@
   margin-bottom: 20px;
 }
 
-.nav-item{
+.nav-item {
+  font-size: 50px !important;
+}
+
+.nav-link {
   font-size: 50px !important;
 }
 
