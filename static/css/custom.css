@@ -43,8 +43,8 @@
   margin-bottom: 20px;
 }
 
-.navbar-dark .navbar-nav .nav-link {;
-  font-size: xx-large;
+.nav-item{
+  font-size: 50px;
 }
 
 .welcomefont {
