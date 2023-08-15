@@ -28,8 +28,6 @@ Graduate students in the Gentile Lab can enroll in the [M.Sc.](https://catalogue
 
 <h5><a id="grad-pos">Open positions for graduate students:</a></h5>
 
-- One graduate research position (either at M.Sc. or Ph.D. level) on AI-augmented design of antibody drug conjugates is available. The research is co-supervised by Dr. Gentile in the Department of Chemistry and Biomolecular Sciences and [Dr. Leyton](https://scholar.google.com/citations?user=ggmSpcIAAAAJ&hl=en) in the School of Pharmaceutical Sciences at the University of Ottawa. Please check the full [announcement](https://www.uottawa.ca/faculty-medicine/sites/g/files/bhrskd401/files/2023-07/Offer_AI_ADC_English%20(002).pdf) for further details<br>
-
 ### Postdoctoral Fellows
 Externally funded postdoctoral applicants are always welcome to contact [Dr. Gentile](https://gentile-lab.github.io/contact/). Fully funded postdoctoral opportunities will be listed below.
 
