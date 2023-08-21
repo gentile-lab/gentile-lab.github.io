@@ -28,6 +28,8 @@ Graduate students in the Gentile Lab can enroll in the [M.Sc.](https://catalogue
 
 <h5><a id="grad-pos">Open positions for graduate students:</a></h5>
 
+<br>
+
 ### Postdoctoral Fellows
 Externally funded postdoctoral applicants are always welcome to contact [Dr. Gentile](https://gentile-lab.github.io/contact/). Fully funded postdoctoral opportunities will be listed below.
 
