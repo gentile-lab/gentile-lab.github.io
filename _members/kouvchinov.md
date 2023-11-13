@@ -3,7 +3,7 @@ name: David Kouvchinov
 startdate: [2023-11-05]
 enddate: []
 image: /static/img/members/kouvchinov.png #365 x 365 pixels, 72 dpi
-position: "Visiting Ph.D. Student, Computational Chemistry"
+position: "Visiting Student, Computational Chemistry"
 #subsequent:  update once you become an alumnus
 scholar: QDK5w7wAAAAJ
 linkedin: davidkouvchinov
