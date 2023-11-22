@@ -19,8 +19,23 @@ group: publications
 			{{publication.pub_date | split: "-" | first }}
 		{% else %}
                        
-		<i>Preprint,</i>
+			{% if publication.biorxiv %}
+			<i>Biorxiv,</i>
+				{{publication.biorxiv | split: "." | first }}
+			{% elsif publication.biorxiv_version %}
+			<i>Biorxiv,</i>
+				{{publication.biorxiv_version | split: "." | first }}
+                        {{publication.pub_date | split: "-" | first }
+			{% elsif publication.medrxiv %}
+                        <i>Medrxiv,</i>
+                                {{publication.medrxiv | split: "." | first }}
+                        {% elsif publication.medrxiv_version %}
+                        <i>Medrxiv,</i>
+                                {{publication.medrxiv_version | split: "." | first }}
+			{% else %}
+			<i>Preprint,</i>
 				{{publication.pub_date | split: "-" | first }}
+			{% endif %}
 		{% endif %}
 	</div>
 </div>
