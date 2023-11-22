@@ -50,12 +50,12 @@ group: publications
 
 		<!--Biorxiv - optional -->
 		{% if publication.biorxiv %}
-		<li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.biorxiv}}" title =  "BioRxiv Preprint: {{publication.biorxiv}} (opens in new tab)" target="_blank"> {{publication.biorxiv | split: "." | last }}</a></li>
+		<li>BioRxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.biorxiv}}" title =  "BioRxiv Preprint: {{publication.biorxiv}} (opens in new tab)" target="_blank"> {{publication.biorxiv | split: "." | last }}</a></li>
 		{% endif %}
 
 		<!--Biorxiv specific version-->
 		{% if publication.biorxiv_version %}
-		<li>Biorxiv Preprint v{{publication.biorxiv_version | split: "." | last | split: "v" | last }}: <a href="http://www.biorxiv.org/content/10.1101/{{publication.biorxiv_version}}" title =  "BioRxiv Preprint: {{publication.biorxiv_version}} (opens in new tab)" target="_blank">{{publication.biorxiv_version | split: "." | last | split: "v" | first }}</a></li>
+		<li>BioRxiv Preprint v{{publication.biorxiv_version | split: "." | last | split: "v" | last }}: <a href="http://www.biorxiv.org/content/10.1101/{{publication.biorxiv_version}}" title =  "BioRxiv Preprint: {{publication.biorxiv_version}} (opens in new tab)" target="_blank">{{publication.biorxiv_version | split: "." | last | split: "v" | first }}</a></li>
 		{% endif %}
 
 		<!--Arxiv - optional -->
@@ -75,7 +75,7 @@ group: publications
                 
                 <!--Medrxiv specific version-->
                 {% if publication.medrxiv_version %}
-                <li>Medrxiv Preprint v{{publication.medrxiv_version | split: "." | last | split: "v" | last }}: <a href="http://www.medrxiv.org/content/10.1101/{{publication.medrxiv_version}}" title =  "MedRxiv Preprint: {{publication.medrxiv_version}} (opens in new tab)" target="_blank">{{publication.medrxiv_version | split: "." | last | split: "v" | first }}</a></li>
+                <li>MedRxiv Preprint v{{publication.medrxiv_version | split: "." | last | split: "v" | last }}: <a href="http://www.medrxiv.org/content/10.1101/{{publication.medrxiv_version}}" title =  "MedRxiv Preprint: {{publication.medrxiv_version}} (opens in new tab)" target="_blank">{{publication.medrxiv_version | split: "." | last | split: "v" | first }}</a></li>
                 {% endif %}                
 
 		<!-- PDF -->
