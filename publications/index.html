@@ -19,7 +19,7 @@ group: publications
 			{{publication.pub_date | split: "-" | first }}
 		{% else %}
                        
-			{% if publication.biorxiv %}
+			{% if publication.biorxiv_version %}
 			<i>Biorxiv,</i>
 				{{publication.biorxiv | split: "." | first }}
 			{% elsif publication.biorxiv_version %}
