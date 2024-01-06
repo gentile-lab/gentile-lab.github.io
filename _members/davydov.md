@@ -1,7 +1,7 @@
 ---
 name: Nikita Davydov
 startdate: [2023-01-01]
-enddate: []
+enddate: [2023-12-31]
 image: /static/img/members/davydov.jpg #365 x 365 pixels, 72 dpi
 position: "Visiting Student, Computer Sciences"
 #subsequent:  update once you become an alumnus
