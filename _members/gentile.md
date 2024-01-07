@@ -6,6 +6,7 @@ image: /static/img/members/gentile.png
 position: Assistant Professor
 #current:
 email: fgentile (at) uottawa.ca
+researchgate: Francesco-Gentile
 scholar: Sm3NG60AAAA
 website: https://www.uottawa.ca/faculty-science/professors/francesco-gentile
 twitter:
