@@ -4,7 +4,6 @@ startdate: [2022-08-01]
 enddate: []
 image: /static/img/members/gentile.png
 position: Assistant Professor
-#current:
 email: fgentile (at) uottawa.ca
 researchgate: Francesco-Gentile
 scholar: Sm3NG60AAAA
