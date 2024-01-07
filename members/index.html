@@ -38,7 +38,7 @@ group: members
                   <a href="http://www.linkedin.com"><img class="inline-block mem-icon" src="/static/img/logo/linkedin_logo.svg"></a>
                   <a href= "http://www.linkedin.com/in/{{member.linkedin}}"> {{member.linkedin}} </a> <br>
                 {% endif %}
-c               {% if member.researchgate %}
+                {% if member.researchgate %}
                   <a href="http://www.researchgate.net"><img class="inline-block mem-icon" src="/static/img/logo/rgate_logo.png"></a>
                   <a href= "https://www.researchgate.net/profile/{{member.researchgate}}"> {{member.researchgate}} </a> <br>
                 {% endif %}
@@ -93,6 +93,10 @@ c               {% if member.researchgate %}
                 {% if member.linkedin %}
                   <a href="http://www.linkedin.com"><img class="inline-block mem-icon" src="/static/img/logo/linkedin_logo.svg"></a>
                   <a href= "http://www.linkedin.com/in/{{member.linkedin}}"> {{member.linkedin}} </a> <br>
+                {% endif %}
+                {% if member.researchgate %}
+                  <a href="http://www.researchgate.net"><img class="inline-block mem-icon" src="/static/img/logo/rgate_logo.png"></a>
+                  <a href= "https://www.researchgate.net/profile/{{member.researchgate}}"> {{member.researchgate}} </a> <br>
                 {% endif %}
                 {% if member.scholar %}
                   <a href="http://scholar.google.com"><img class="inline-block mem-icon" src="/static/img/logo/gscholar_logo.svg"></a>
