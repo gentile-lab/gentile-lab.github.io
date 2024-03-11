@@ -1,6 +1,6 @@
 ---
 name: Hazem Mslati
-startdate: [2024-01-01]
+startdate: [2024-01-03]
 enddate: []
 image: /static/img/members/mslati.png #365 x 365 pixels, 72 dpi
 position: "Ph.D. student, Cellular and Molecular Medicine (co-supervised with Jeff Leyton)"
