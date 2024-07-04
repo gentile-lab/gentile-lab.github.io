@@ -2,7 +2,7 @@
 name: Yasaman Shahrasbi
 startdate: [2024-06-01]
 enddate: []
-image: /static/img/members/shahrasbi.jpg
+image: /static/img/members/shahrasbi.jpeg
 position: "Research Assistant, Computer Science"
 #subsequent:  update once you become an alumnus
 linkedin:
