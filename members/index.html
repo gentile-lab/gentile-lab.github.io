@@ -230,14 +230,14 @@ group: members
 {% endfor %}
 <hr>
 
-<h3>Visiting</h3>
+<h3>Others</h3>
 {% for member in site.members %}
 
 {% unless member.enddate == empty %}
 {% continue %}
 {% endunless %}
 
-{% unless member.position contains "Visiting" %}
+{% unless member.position contains "Visiting" or member.position contains "Research" %}
 {% continue %}
 {% endunless %}
 
