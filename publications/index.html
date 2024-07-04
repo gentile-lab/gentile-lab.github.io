@@ -72,6 +72,11 @@ group: publications
                 {% if publication.medrxiv %}
                 <li>MedRxiv Preprint: <a href="https://doi.org/10.1101/medrxiv.{{publication.medrxiv}}" title = "MedRxiv Preprint: {{publication.medrxiv}} (opens in new tab)" target="_blank"> {{publication.medrxiv}}</a></li>
                 {% endif %}
+
+                <!--Researchsquare - optional -->
+                {% if publication.rsquare %}
+                <li>ResearchSquare Preprint: <a href="https://www.researchsquare.com/article/-{{publication.rsquare}}" title = "ResearchSquare Preprint: {{publication.rsquare}} (opens in new tab)" target="_blank"> {{publication.rsquare}}</a></li>
+                {% endif %}
                 
                 <!--Medrxiv specific version-->
                 {% if publication.medrxiv_version %}
