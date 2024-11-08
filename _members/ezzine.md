@@ -1,7 +1,7 @@
 ---
 name: Mehdi Ezzine
 startdate: [2023-08-01]
-enddate: []
+enddate: [2024-04-31]
 image: /static/img/members/ezzine.jpg
 position: "Volunteer Student, Biotechnology"
 #subsequent:  update once you become an alumnus

@@ -1,7 +1,7 @@
 ---
 name: David Kouvchinov
-startdate: [2024-03-		]
-enddate: []
+startdate: [2024-03-01]
+enddate: [2024-5-31]
 image: /static/img/members/kouvchinov.png #365 x 365 pixels, 72 dpi
 position: "Visiting Student, Computational Chemistry"
 #subsequent:  update once you become an alumnus

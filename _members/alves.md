@@ -1,10 +1,10 @@
 ---
 name: Tiago Alves de Oliveira
 startdate: [2024-04-24]
-enddate: []
+enddate: [2024-09-30]
 image: /static/img/members/alves.png #365 x 365 pixels, 72 dpi
 position: "Visiting Student, Bioengineering"
-#subsequent:  update once you become an alumnus
+#subsequent:  PhD student, FUSJR
 researchgate: Tiago-Alves-De-Oliveira
 scholar: uFCAPt8AAAAJ
 linkedin: tiagofga

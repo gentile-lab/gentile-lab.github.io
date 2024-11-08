@@ -1,7 +1,7 @@
 ---
 name: Gaël Coulombe
 startdate: [2024-05-06]
-enddate: []
+enddate: [2024-08-31]
 image: /static/img/members/coulombe.png #365 x 365 pixels, 72 dpi
 position: "Co-op Student, Biochemistry"
 #subsequent:  update once you become an alumnus
