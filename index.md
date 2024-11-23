@@ -19,6 +19,6 @@ We gratefully acknowledge the support from:
 <p style="text-align:center;"><img src="/static/img/logo/funding2.png" width="90%">
 </p>
 
-<p style="text-align:center;"><img src="/static/img/fun/laser_tag.jpg" width="90%">
+<p style="text-align:center;"><img src="/static/img/fun/laser_tag.jpg" width="90%"><br><span style="font-style:italic; font-size:1.2em;">"Some members of the Gentile Lab having fun at laser tag!"</span>
 </p>
 
