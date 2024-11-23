@@ -1,5 +1,5 @@
 ---
-title: "Active Learning Guided Hit Optimization for the Leucine-Rich Repeat Kinase 2 WDR Domain Based on In Silico Ligand Binding Affinities"
+title: "Pose Ensemble Graph Neural Networks to Improve Docking Performances"
 authors: "**Thaingtamtanha, T.**, Preto, J., **Gentile, F.**"
 journal: 
 pub_date: "2024-11-21"
