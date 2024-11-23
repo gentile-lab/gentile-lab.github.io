@@ -18,3 +18,7 @@ We gratefully acknowledge the support from:
 
 <p style="text-align:center;"><img src="/static/img/logo/funding2.png" width="90%">
 </p>
+
+dd<p style="text-align:center;"><img src="/static/img/fun/laser_tag.jpg" width="90%">
+</p>
+
