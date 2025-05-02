@@ -7,5 +7,5 @@ link:
 image: "/static/img/pub/2025_mslati.png"
 pmid: 
 pmcid: 
-rsquare: "rs-6256038"
+rsquare: "rs-6256038/v1"
 ---

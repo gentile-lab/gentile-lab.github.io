@@ -7,5 +7,5 @@ link:
 image: "/static/img/pub/2024_brezinova.png"
 pmid: 
 pmcid: 
-rsquare: "rs-4512167"
+rsquare: "rs-4512167/v1"
 ---
