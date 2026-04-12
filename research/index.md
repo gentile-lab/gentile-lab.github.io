@@ -19,7 +19,7 @@ Feel free to [contact](https://gentilelab.uottawa.ca/contact/) us if you want to
 While traditional virtual screening has focused on libraries of up to a few million compounds, the number of possible drug-like molecules exceeds 10⁶⁰, and modern make-on-demand libraries now contain billions of accessible candidates. Exploring this space efficiently remains a major challenge. To address this, we develop machine learning approaches to accelerate structure-based virtual screening by building fast surrogates of physics-based methods. This enables scalable prioritization across ultra-large libraries and broadens access to high-throughput computational chemical discovery. This [review](https://wires.onlinelibrary.wiley.com/doi/10.1002/wcms.1678) from our lab is a great starting point to learn more about the topic.
 
 </div>
-<div class="col-md-5 order-md-2 align-self-center">
+<div class="col-md-4 order-md-2 align-self-center">
 <img class="img-fluid" src="/static/img/res/dd.png" alt="deepdocking">
 
 </div>
@@ -32,7 +32,7 @@ Besides acceleration, we also strive to improve the robustness of virtual screen
 
 </div>
 
-<div class="col-md-5 order-md-1 align-self-center">
+<div class="col-md-4 order-md-1 align-self-center">
 <img class="img-fluid" src="/static/img/res/db2.png" alt="dbx2">
 </div>
 </div>
