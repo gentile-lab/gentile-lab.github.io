@@ -26,9 +26,9 @@ While traditional virtual screening has focused on libraries of up to a few mill
 </div>
 <div class="row">
 
-<div class="col-md-9 order-md-2">
+<div class="col-md-7 order-md-2">
 
-Besides acceleration, we also strive to improve the robustness of virtual screening methods, by addressing artifacts and failures on novel or flexible targets through the integration of data-driven models with physics-based tools, with a a particular focus toward challenging systems such as protein-protein and protein-nucleic acid interactions that are emerging as drug targets.
+Besides acceleration, we also strive to improve the robustness of virtual screening methods, by addressing artifacts and failures on novel or flexible targets through the integration of data-driven models with physics-based tools, such as in [DockBox2](https://pubs.rsc.org/en/content/articlelanding/2025/sc/d4sc07875f). We are particularly interested in improving chemical discovery against challenging, emerging targets such as protein-protein and protein-nucleic acid interactions.
 
 </div>
 
