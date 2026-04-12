@@ -44,7 +44,8 @@ Drug discovery is complex
 
 <div class="col-md-9 order-md-1">
 
-We use computational methods to study proteins that are responsible for drug resistance in cancer cells. We are particularly interested in investigating the structure-function relationship of DNA repair proteins. It has been established that chemical modulation of their activity in cancer cells improves the response to DNA-damaging chemotherapies such as platinum-based drugs. Thus, we employ virtual screening to discover new small molecules inhibitors of these proteins, with the goal of opening new venues for developing more effective combination cancer therapies. For example, we have previously demonstrated the effectiveness of targeting the dimerization interface of the ERCC1-XPF endonuclease [with small molecules](https://pubs.acs.org/doi/10.1021/acs.jmedchem.9b00326) in order to sensitize cancer cells to alkylating agents.
+We are also interested in understanding and overcoming drug resistance in cancer and bacterial infections. To this end, we apply computational methods to design small molecules that either disrupt key resistance mechanisms, including [inhibitors of DNA damage response pathways](https://www.sciencedirect.com/science/article/abs/pii/S0304419X25001507) that limit the efficacy of chemotherapy in cancer, or probe novel mechanisms that are less susceptible to resistance. Beyond small molecules, we are also interested in improving the design of complex biologics such as antibody–drug conjugates (ADCs), using machine learning to guide optimization across biological space.
+
 </div>
 
 <div class="col-md-3 order-md-2 align-self-center">
