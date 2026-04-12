@@ -33,7 +33,7 @@ Besides acceleration, we also strive to improve the robustness of virtual screen
 </div>
 
 <div class="col-md-5 order-md-1 align-self-center">
-<img class="img-fluid" src="/static/img/res/db2.png" alt="dbx2">
+<img class="img-fluid" src="/static/img/res/db.png" alt="dbx2">
 </div>
 </div>
 <div class="row">
