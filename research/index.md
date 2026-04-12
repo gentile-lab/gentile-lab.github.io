@@ -8,9 +8,7 @@ group: research
 
 <br>
 
-Drug discovery is fundamentally a search across vast chemical and biological spaces. Our group develops computational tools at the interface of chemistry, biophysics, and machine learning to navigate these spaces. In turn, these tools  are applied to discover new chemical starting points for drug design against viral infections, cancer, aand other diseases. In our research, we are fortunate to collaborate with several national and international groups with leading expertise in medicinal chemistry, biology, and pharmacology. 
-
-Feel free to [contact](https://gentilelab.uottawa.ca/contact/) us if you want to know more or explore collaborations.
+Drug discovery is fundamentally a search across vast chemical and biological spaces. Our group develops computational tools at the interface of chemistry, biophysics, and machine learning to navigate these spaces. In turn, these tools  are applied to discover new chemical starting points for drug design against viral infections, cancer, aand other diseases. In our research, we are fortunate to collaborate with several national and international groups with leading expertise in medicinal chemistry, biology, and pharmacology. Feel free to [contact](https://gentilelab.uottawa.ca/contact/) us if you want to know more or explore collaborations.
 
 <div class="row">
 
