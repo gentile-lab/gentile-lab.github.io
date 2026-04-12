@@ -8,14 +8,15 @@ group: research
 
 <br>
 
-Our group develops computational tools at the interface of chemistry, biophysics, and machine learning, and apply them to discover novel starting points for drug design against unconventional targets. We are fortunate to collaborate with several national and international groups with leading expertise in medicinal chemistry, biology, and pharmacology.
+Drug discovery is fundamentally a search across vast chemical and biological spaces. Our group develops computational tools at the interface of chemistry, biophysics, and machine learning to navigate these spaces. In turn, these tools  are applied to discover new chemical starting points for drug design against viral infections, cancer, aand other diseases. In our research, we are fortunate to collaborate with several national and international groups with leading expertise in medicinal chemistry, biology, and pharmacology. 
 
+Feel free to [contact](https://gentilelab.uottawa.ca/contact/) us if you want to know more or explore collaborations.
 
 <div class="row">
 
-<div class="col-md-8 order-md-1">
+<div class="col-md-7 order-md-1">
 
-Drug discovery is fundamentally a search across vast chemical and biological spaces. While traditional screening has focused on libraries of up to a few million compounds, the number of possible drug-like molecules exceeds 10⁶⁰, and modern make-on-demand libraries now contain billions of accessible candidates. Exploring this space efficiently remains a major challenge. To address this, we develop machine learning approaches to accelerate structure-based virtual screening by building fast surrogates of physics-based methods. This enables scalable prioritization across ultra-large libraries and broadens access to high-throughput computational chemical discovery. 
+While traditional virtual screening has focused on libraries of up to a few million compounds, the number of possible drug-like molecules exceeds 10⁶⁰, and modern make-on-demand libraries now contain billions of accessible candidates. Exploring this space efficiently remains a major challenge. To address this, we develop machine learning approaches to accelerate structure-based virtual screening by building fast surrogates of physics-based methods. This enables scalable prioritization across ultra-large libraries and broadens access to high-throughput computational chemical discovery. This [review](https://wires.onlinelibrary.wiley.com/doi/10.1002/wcms.1678) from our lab is a great starting point to learn more about the topic.
 
 </div>
 <div class="col-md-4 order-md-2 align-self-center">
