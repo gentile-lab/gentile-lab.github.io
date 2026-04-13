@@ -125,9 +125,10 @@ group: members
 {% continue %}
 {% endunless %}
 
-{% unless member.position contains "M.Sc." or member.position contains "Ph.D." %}
-{% continue %}
-{% endunless %}
+{% if member.position contains "Visiting" 
+   or (member.position contains "M.Sc." == false and member.position contains "Ph.D." == false) %}
+  {% continue %}
+{% endif %}
 
         <hr>
           <div id = "{{member.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
