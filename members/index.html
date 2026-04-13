@@ -126,7 +126,6 @@ group: members
 {% endunless %}
 
 {% if member.position contains "Visiting" 
-   or (member.position contains "M.Sc." == false and member.position contains "Ph.D." == false) %}
   {% continue %}
 {% endif %}
 
