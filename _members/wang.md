@@ -1,7 +1,7 @@
 ---
 name: Grace Wang
 startdate: [2025-04-30]
-enddate: []
+enddate: [2025-12-31]
 image: /static/img/members/wang.jpg
 linkedin: grace-wang-189643269
 position: "Volunteer Student, Biopharmaceutical Sciences"

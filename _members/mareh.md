@@ -1,7 +1,7 @@
 ---
 name: Tareq Mareh
 startdate: [2025-01-01]
-enddate: []
+enddate: [2025-06-01]
 image: /static/img/members/mareh.jpg
 linkedin: tareq-mareh-969505131
 position: "Volunteer Student, Biotechnology"
