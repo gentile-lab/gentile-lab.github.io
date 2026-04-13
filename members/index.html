@@ -125,8 +125,12 @@ group: members
 {% continue %}
 {% endunless %}
 
-{% if member.position contains "Visiting" 
-  {% continue %}
+{% unless member.position contains "M.Sc." or member.position contains "Ph.D." %} 
+{% continue %} 
+{% endunless %}
+
+{% if member.position contains "Visiting"} 
+{% continue %}
 {% endif %}
 
         <hr>
