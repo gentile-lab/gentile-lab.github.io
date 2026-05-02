@@ -12,7 +12,7 @@ group: home
 Located in the STEM Complex of the University of Ottawa, in the hearth of Canada’s National Capital Region, our laboratory is part of the [Department of Chemistry and Biomolecular Sciences](https://www.uottawa.ca/faculty-science/chemistry-biomolecular-sciences) and the [Ottawa Institute of Systems Biology](https://www.uottawa.ca/research-innovation/ottawa-institute-systems-biology).
 {: .welcomefont}
 
-Our research focuses on computer-aided drug discovery at the interface of chemistry, biology and computer science. We are interested in developing and applying innovative computational tools to accelerate therapeutics discovery in viral infections, cancer and other diseases. 
+Our research focuses on computer-aided drug discovery at the interface of chemistry, biology and computer science. We are interested in developing and applying innovative computational tools to accelerate therapeutics discovery for infectious diseases, cancer and beyond.
 {: .welcomefont}
 
 We gratefully acknowledge the support from:
