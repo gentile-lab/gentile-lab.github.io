@@ -1,7 +1,7 @@
 ---
 name: Kamron Yunusov
 startdate: [2025-04-30]
-enddate: []
+enddate: [2026-04-30]
 image: /static/img/members/yunusov.heic
 linkedin: kamronyunusov
 position: "Honours  Student, Translational and Molecular Medicine"
