@@ -5,5 +5,5 @@ journal:
 pub_date: "2026-05-07"
 link:
 image: "/static/img/pub/2026_zizzi.png"
-chemrxiv_version: ".15003308/v1" 
+chemrxiv: ".15003308/v1" 
 ---
