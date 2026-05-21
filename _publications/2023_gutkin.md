@@ -7,5 +7,5 @@ link: "https://pubs.rsc.org/en/content/articlelanding/2024/sc/d3sc06880c"
 image: "/static/img/pub/2023_gutkin.png"
 pmid: 
 pmcid: 
-chemrxiv: "2023-lnzvr"
+chemrxiv: "-2023-lnzvr"
 ---

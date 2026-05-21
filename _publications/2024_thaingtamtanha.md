@@ -7,5 +7,5 @@ link: "https://pubs.rsc.org/en/content/articlelanding/2025/sc/d4sc07875f"
 image: "/static/img/pub/2024_thaingtamtanha.png"
 pmid: 
 pmcid: 
-chemrxiv: "2024-sw04g"
+chemrxiv: "-2024-sw04g"
 ---
