@@ -50,12 +50,12 @@ group: publications
 
 		<!--Biorxiv - optional -->
 		{% if publication.biorxiv %}
-		<li>BioRxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.biorxiv}}" title =  "BioRxiv Preprint: {{publication.biorxiv}} (opens in new tab)" target="_blank"> {{publication.biorxiv | split: "." | last }}</a></li>
+		<li>BioRxiv Preprint: <a href="http://dx.doi.org/{{publication.biorxiv}}" title =  "BioRxiv Preprint: {{publication.biorxiv}} (opens in new tab)" target="_blank"> {{publication.biorxiv | split: "." | last }}</a></li>
 		{% endif %}
 
 		<!--Biorxiv specific version-->
 		{% if publication.biorxiv_version %}
-		<li>BioRxiv Preprint v{{publication.biorxiv_version | split: "." | last | split: "v" | last }}: <a href="http://www.biorxiv.org/content/10.1101/{{publication.biorxiv_version}}" title =  "BioRxiv Preprint: {{publication.biorxiv_version}} (opens in new tab)" target="_blank">{{publication.biorxiv_version | split: "." | last | split: "v" | first }}</a></li>
+		<li>BioRxiv Preprint v{{publication.biorxiv_version | split: "." | last | split: "v" | last }}: <a href="http://www.biorxiv.org/content/{{publication.biorxiv_version}}" title =  "BioRxiv Preprint: {{publication.biorxiv_version}} (opens in new tab)" target="_blank">{{publication.biorxiv_version | split: "." | last | split: "v" | first }}</a></li>
 		{% endif %}
 
 		<!--Arxiv - optional -->

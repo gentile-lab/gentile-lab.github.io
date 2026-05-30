@@ -7,5 +7,5 @@ image: "/static/img/pub/2023_mslati.png"
 link: "https://pubs.acs.org/doi/10.1021/acs.jcim.3c01878"
 pmid: 
 pmcid: 
-biorxiv_version: "2023.11.20.567951v1"
+biorxiv_version: "10.1101/2023.11.20.567951v1"
 ---
