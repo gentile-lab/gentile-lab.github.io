@@ -7,5 +7,4 @@ image: "/static/img/pub/2025_ravichandran.png"
 link: "https://www.sciencedirect.com/science/article/pii/B9780443239328000017"
 pmid:
 pmcid:
-biorxiv_version: 10.1101/2025.09.05.674529
 ---
