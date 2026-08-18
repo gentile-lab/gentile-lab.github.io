@@ -7,7 +7,7 @@ group: home
 # The Gentile Lab
 {: .display-4}
 <br>
-<p style="text-align:center;"><img src="/static/img/fun/laser_tag.jpg" width="90%"><br><span style="font-style:italic; font-size:1.2em;">The Gentile Lab at laser tag! (Nov 2024)</span>
+<p style="text-align:center;"><img src="/static/img/fun/falls.jpg" width="90%"><br><span style="font-style:italic; font-size:1.2em;">Lab hiking at Luskville Falls Trail (Aug 26).</span>
 </p>
 Located in the STEM Complex of the University of Ottawa, in the hearth of Canada’s National Capital Region, our laboratory is part of the [Department of Chemistry and Biomolecular Sciences](https://www.uottawa.ca/faculty-science/chemistry-biomolecular-sciences) and the [Ottawa Institute of Systems Biology](https://www.uottawa.ca/research-innovation/ottawa-institute-systems-biology).
 {: .welcomefont}
