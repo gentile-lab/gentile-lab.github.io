@@ -1,10 +1,10 @@
 ---
 name: Jean-Paul Kazzi
 startdate: [2022-12-01]
-enddate: []
+enddate: [2025-05-31]
 image: /static/img/members/kazzi.jpg #365 x 365 pixels, 72 dpi
 position: "Honours Student, Biotechnology (co-supervised with John Pezacki)"
-#subsequent:  update once you become an alumnus
+subsequent: "M.Sc. student, Chemical Engineering, University of Toronto"
 linkedin:
 description: "Jean-Paul started in the lab in December 2022 as UROP student, and he is now continuing as a honours student, co-supervised by Prof. [Pezacki](https://www.uottawa.ca/faculty-science/professors/john-pezacki)."
 ---
